@@ -10,6 +10,17 @@
       "testRecipient": "0xAE791405766B9c3ed253517463196BEF5e4833d7"
     }
   },
+  "hyperspace": {
+    "id": 3141,
+    "owner": "0xbcb8E197F783E2aE4B3f3b6358B582a9692f9F85",
+    "contracts": {
+      "create2Factory": "",
+      "proxyAdmin": "",
+      "mailbox": "",
+      "interchainGasPaymaster": "",
+      "testRecipient": ""
+    }
+  },
   "alfajores": {
     "id": 44787,
     "owner": "0xfaD1C94469700833717Fa8a3017278BC1cA8031C",
